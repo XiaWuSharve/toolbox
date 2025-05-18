@@ -19,7 +19,7 @@ cd toolbox
 mvn spring-bool:run
 ```
 
-For the build version, download [this](#) and execute the following command:
+For the build version, see [this](https://github.com/XiaWuSharve/toolbox/releases/tag/Release) and execute the following command:
 ```bash
 java -jar /path/to/demo-0.0.1-SNAPSHOT.jar
 ```
